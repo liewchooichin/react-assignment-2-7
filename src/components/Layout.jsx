@@ -25,7 +25,7 @@ export function Layout(){
       <p>import.meta.env.VITE_KEY_2={import.meta.env.VITE_LOCAL_KEY_2}</p>
       <p>import.meta.env.VITE_MY_AZURE_KEY_1={import.meta.env.VITE_MY_AZURE_KEY_1}</p>
       <p>import.meta.env.VITE_MY_AZURE_KEY_2={import.meta.env.VITE_MY_AZURE_KEY_2}</p>
-
+      <p>import.meta.env.VITE_MY_API_KEY_1={import.meta.env.VITE_MY_API_KEY_1}</p>
       <ModeProvider>
       <ProductProvider>
         <Product />
