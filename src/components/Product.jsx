@@ -10,7 +10,6 @@ import ModeContext from '../context/ModeContext';
 import Toggle from './Toggle';
 import { simpleId } from '../assignment/Utils';
 import { EditItemForm } from '../assignment/EditItemForm';
-import { SelectedIdContext } from '../assignment/CurrentIdContext';
 import { initialProductList } from '../reducers/initialProductList';
 
 
