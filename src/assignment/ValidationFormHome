@@ -1,0 +1,16 @@
+// Filename - ValidationJoi/ValidationJoiHome.js
+
+import CustomerForm from "./CustomerForm";
+
+
+function ValidationJoiHome() {
+    return (
+        <div>
+            <h1>
+                {"Validation Joi Home"}
+            </h1>
+            <CustomerForm />
+        </div>
+    );
+}
+export default ValidationJoiHome;
